@@ -267,7 +267,7 @@ public class BookReservationPage {
         return dayFromField.getText();
     }
 
-    public String getdDayToField() {
+    public String getDayToField() {
         return dayToField.getText();
     }
 
