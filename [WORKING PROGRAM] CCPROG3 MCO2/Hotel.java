@@ -105,7 +105,7 @@ public class Hotel {
             return this.datePriceModifierList[day-1];
         }
         else
-            return -999
+            return -999;
     }
 
     /**
